@@ -30,6 +30,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png",
       "extensions": {}
+    },
+    {
+      "chainId": 333777,
+      "address": "0x5bD49815DEEEEe2EaE34467fF6AbFcF201570628",
+      "name": "Wrapped OONE",
+      "symbol": "WOONE",
+      "decimals": 18,
+      "logoURI": "https://dev.oonescan.com/images/logo_oone-a2945b12ecb615fb314e46f457327bf4.svg?vsn=d",
+      "extensions": {}
     }
   ]
 }
