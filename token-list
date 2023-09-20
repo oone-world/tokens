@@ -1,0 +1,35 @@
+{
+  "name": "OONE Swap Default",
+  "timestamp": "2023-09-20T13:52:25.768Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "oone-swap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 333777,
+      "address": "0xDBf7a6B65b964bBbE517fdA0940bF90EC967a75C",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 333777,
+      "address": "0x822393b87328a3912CD13b1a5E577304cED32a69",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png",
+      "extensions": {}
+    }
+  ]
+}
