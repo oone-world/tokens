@@ -2,7 +2,7 @@
   "name": "OONE Swap Default",
   "timestamp": "2023-09-20T13:52:25.768Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
@@ -34,6 +34,24 @@
     {
       "chainId": 333777,
       "address": "0x5bD49815DEEEEe2EaE34467fF6AbFcF201570628",
+      "name": "Wrapped OONE",
+      "symbol": "WOONE",
+      "decimals": 18,
+      "logoURI": "https://dev.oonescan.com/images/logo_oone-a2945b12ecb615fb314e46f457327bf4.svg?vsn=d",
+      "extensions": {}
+    },
+    {
+      "chainId": 333666,
+      "address": "0xb64F67FC737527fA82C4799c0b499c1aeF95A24E",
+      "name": "Fake USDT",
+      "symbol": "fUSDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "extensions": {}
+    },
+    {
+      "chainId": 333666,
+      "address": "0x3f2a6D29152Cc59a54e647191CffcA1d12423E59",
       "name": "Wrapped OONE",
       "symbol": "WOONE",
       "decimals": 18,
